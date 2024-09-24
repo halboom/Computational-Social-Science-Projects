@@ -1,0 +1,15 @@
+commands so far: 
+git clone https://github.com/halboom/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir "Project-1"
+cd "Project-1"
+touch hind_file.txt
+nano hind_file.txt
+(add commands as i'm doing right now)
+git status
+git add .
+
+then:
+git add "Projec1-1/hind_file.txt"
+git committ -m "Add hind_file.txt to Project-1"
+git push origin main
