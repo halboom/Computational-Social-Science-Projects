@@ -10,6 +10,6 @@ git status
 git add .
 
 then:
-git add "Projec1-1/hind_file.txt"
-git committ -m "Add hind_file.txt to Project-1"
+git add "Project-1/hind_file.txt"
+git commit -m "Add hind_file.txt to Project-1"
 git push origin main
